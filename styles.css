@@ -1,0 +1,17 @@
+body { 
+    color: rgb(42, 165, 63);
+    background-color: orange;
+} 
+
+#site-title {
+    font-weight: 100;
+}
+
+.menu-item {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+.menu-item:hover {
+    text-decoration: none;
+}
